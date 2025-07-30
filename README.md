@@ -2,7 +2,24 @@
 Acá están las presentaciones revisadas en clases:
 - [Funciones](https://rebrand.ly/d07c80)
 - [Listas](https://rebrand.ly/6f7508)
+
 <!--
+> [!NOTE]
+> Nota
+
+> [!TIP]
+> Consejo
+
+> [!IMPORTANT]
+> Importante
+
+> [!WARNING]
+> Advertencia
+
+> [!CAUTION]
+> Peligro
+
+
 **ElProfeRodo/ElProfeRodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
