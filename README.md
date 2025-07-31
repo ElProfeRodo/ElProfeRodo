@@ -1,6 +1,6 @@
 ## Hola! 👋
 Acá están las presentaciones revisadas en clases:
-- [Funciones](https://rebrand.ly/d07c80)
+- [Funciones](https://docs.google.com/presentation/d/1q51Of5zh_qc3NlYU93FFj9HzWMyMZLDDHwP71xg-qtc/edit?usp=sharing)
 - [Listas](https://rebrand.ly/6f7508)
 
 <!--
