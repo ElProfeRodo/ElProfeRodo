@@ -1,7 +1,7 @@
 ## Hola! 👋
 Acá están las presentaciones revisadas en clases:
 - [Funciones](https://docs.google.com/presentation/d/1q51Of5zh_qc3NlYU93FFj9HzWMyMZLDDHwP71xg-qtc/edit?usp=sharing)
-- [Listas](https://rebrand.ly/6f7508)
+- [Listas](https://docs.google.com/presentation/d/1tqfDD-vG8X32lnzIF17raxDF7OLCS7G4VBgUXkEeVR0/edit?usp=sharing)
 
 <!--
 > [!NOTE]
