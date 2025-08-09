@@ -1,5 +1,6 @@
 ## Hola! 👋
 Acá están las presentaciones revisadas en clases:
+- [Variables y Tipos de datos](https://docs.google.com/presentation/d/1HQtbTH93neDzhtS-9wPsvYYP1EjCWqP96V35YlPtuzU/edit?usp=sharing)
 - Entrada y Salida de datos
   - [Función PRINT](https://docs.google.com/presentation/d/104udAMkCtRYoP84qlvMLXuvsvn1cJsNxk6vhoFnjiB0/edit?usp=sharing)
   - [Función INPUT](https://docs.google.com/presentation/d/1NjYBCAuGwqeGsPSF1jCUzsbL0Iwm3Ba1lguzgXQhIA0/edit?usp=sharing)
