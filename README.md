@@ -9,8 +9,10 @@ Acá están las presentaciones revisadas en clases:
   - [Operadores lógicos](https://docs.google.com/presentation/d/17TZO8tf5qgp3iWcd8f4-_sxtN08iQLduLd6Hh6puxDw/edit?usp=sharing)
   - [Sentencia IF](https://docs.google.com/presentation/d/1VBKVUvJLSWh3szhWDhwEsagPlX-F3Q2LY8rnmA1MMFg/edit?usp=sharing)
   - [Ciclo WHILE](https://docs.google.com/presentation/d/1TCF7VIcQyREznizsczyzV-q7hUJSJCSb2rr59hhF3v8/edit?usp=sharing)
+- Colecciones
+  - [Listas](https://docs.google.com/presentation/d/1tqfDD-vG8X32lnzIF17raxDF7OLCS7G4VBgUXkEeVR0/edit?usp=sharing)
+  - [Diccionarios](https://docs.google.com/presentation/d/1_xdvxsxDw1oHTM_yizEGhADUBrpGkDE1e1uFeVqfNmg/edit?usp=sharing)
 - [Funciones](https://docs.google.com/presentation/d/1q51Of5zh_qc3NlYU93FFj9HzWMyMZLDDHwP71xg-qtc/edit?usp=sharing)
-- [Listas](https://docs.google.com/presentation/d/1tqfDD-vG8X32lnzIF17raxDF7OLCS7G4VBgUXkEeVR0/edit?usp=sharing)
 
 <!--
 > [!NOTE]
